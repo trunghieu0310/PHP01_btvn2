@@ -2,7 +2,7 @@
 $str = 'this a test string';
 $str1 = 'string';
 $arr = explode(" ", $str); // Correct the order of arguments in explode
-foreach($x as $arr){
+foreach($arr as $x){
   if($x == $str){
     echo "chứa chuỗi";
   }
